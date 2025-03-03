@@ -4,11 +4,11 @@
         <groups>
             <run>
                 <include name = "positive"/>
-                <excllude name = "positive"/>
+                <include name = "positive"/>
             </run>
         </groups>
         <classes>
-            <class name="checkNumberTest"/>
+            <class name="DeliveryTest"/>
         </classes>
     </test>
 </suite>
